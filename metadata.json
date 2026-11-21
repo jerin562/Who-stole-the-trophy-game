@@ -1,0 +1,6 @@
+{
+  "name": "Who Stole The Trophy?",
+  "description": "Interactive Naive Bayes Classification and Laplace Smoothing classroom detective investigation game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
